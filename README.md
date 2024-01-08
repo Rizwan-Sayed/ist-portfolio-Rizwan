@@ -11,4 +11,4 @@ git commit -m "Commit message"
 git push
 ```
 
-![Black Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRgl0PPFYU3scHfO9vmHNri9YJO9cfD_HAw&usqp=CAU)
+![Black Screen](https://cdnb.artstation.com/p/assets/images/images/033/696/453/medium/yan-blanco-squidward.jpg?1610379906)
