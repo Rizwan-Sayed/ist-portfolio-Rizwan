@@ -11,4 +11,4 @@ git commit -m "Commit message"
 git push
 ```
 
-![Black Screen](https://pics.craiyon.com/2023-06-07/bd15d3f3ba884dc695cef539b1a23e6d.webp)
+![Black Screen](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFRgl0PPFYU3scHfO9vmHNri9YJO9cfD_HAw&usqp=CAU)
